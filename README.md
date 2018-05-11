@@ -14,7 +14,7 @@ Simple honeypot that logs access attemps on web server directories.
 
 For an enhanced version with a fake username and password prompt see [honeypot-hornet](https://github.com/urbanware-org/honeypot-hornet).
 
-[Top](#honeypot-wasp-)
+[Top](#honeypot-wasp)
 
 ## Details
 
@@ -22,7 +22,7 @@ Many websites provide administrative access to a management interface for the we
 
 In case your website does not have such a directory (or with a different name), you can create a fake one and use this honeypot to see the access attempts.
 
-[Top](#honeypot-wasp-)
+[Top](#honeypot-wasp)
 
 ## Usage
 
@@ -51,7 +51,7 @@ After that the attempted access has been logged into the given log file. For exa
 [2018-04-28 - 09:42:10] User agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
 ```
 
-[Top](#honeypot-wasp-)
+[Top](#honeypot-wasp)
 
 ## Contact
 
@@ -59,4 +59,4 @@ Any suggestions, questions, bugs to report or feedback to give?
 
 You can contact me by sending an email to <dev@urbanware.org>.
 
-[Top](#honeypot-wasp-)
+[Top](#honeypot-wasp)
