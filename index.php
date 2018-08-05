@@ -5,6 +5,7 @@
      * Distributed under the MIT License (https://opensource.org/licenses/MIT)    *
      *                                                                            *
      * GitHub: https://github.com/urbanware-org/honeypot-wasp                     *
+     * GitLab: https://gitlab.com/urbanware-org/honeypot-wasp                     *
      ******************************************************************************/
 
     // Requires PHP 5.4 or higher
