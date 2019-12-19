@@ -35,7 +35,7 @@ Installing the honeypot is simple.
     ```php
     $file = 'logfile.txt';
     ```
-    
+
 1.  Create an empty text file with that name.
 1.  Rename `honeypot-wasp.php` to `index.php` or `index.html`.
 1.  Create the desired directory where you want to install the honeypot on your web server, e.g. `/admin`.
@@ -59,6 +59,6 @@ After that the attempted access has been logged into the given log file. For exa
 
 Any suggestions, questions, bugs to report or feedback to give?
 
-You can contact me by sending an email to <dev@urbanware.org>.
+You can contact me by sending an email to [dev@urbanware.org](mailto:dev@urbanware.org).
 
 [Top](#honeypot-wasp)
