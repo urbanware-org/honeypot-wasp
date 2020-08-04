@@ -45,7 +45,7 @@ Installing the honeypot is simple.
 
 Use your web browser to navigate to the directory on your website which contains the honeypot file. The page will return code **500** (**Internal server error**).
 
-After that the attempted access has been logged into the given log file. For example:
+After that, the attempted access has been logged into the given log file. For example:
 
 ```
 [2018-04-28 - 09:42:10] Attempt to access 'https://www.foo.bar/admin'
