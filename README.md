@@ -12,7 +12,7 @@
 
 Simple honeypot that logs access attempts on web server directories.
 
-For an enhanced version with a fake username and password prompt see [honeypot-hornet](https://github.com/urbanware-org/honeypot-hornet).
+For an enhanced version with a fake username and password prompt see *[honeypot-hornet](https://github.com/urbanware-org/honeypot-hornet)*.
 
 [Top](#honeypot-wasp)
 
